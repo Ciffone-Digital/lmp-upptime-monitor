@@ -1,4 +1,4 @@
-# [📈 Live Status](https://Ciffone-Digital.github.io/upptime-monitor): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://Ciffone-Digital.github.io/lmp-upptime-monitor): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [Ciffone Digital](https://ciffonedigital.com), powered by [Upptime](https://github.com/upptime/upptime).
 
@@ -21,7 +21,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://Ciffone-Digital.github.io/upptime-monitor)
+[**Visit our status website →**](https://Ciffone-Digital.github.io/lmp-upptime-monitor)
 
 ## 📄 License
 
