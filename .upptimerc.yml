@@ -14,8 +14,8 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /lmp-upptime-monitor
   logoUrl: https://ciffonedigital.com/wp-content/uploads/2021/03/Ciffone-Digital-Logo-Primary-CD-300x216.png
-  name: Upptime Monitor
-  introTitle: "Website Status Report"
+  name: Ciffone Digital Hosting
+  introTitle: "Uptime Status Report"
   navbar:
     - title: Status
       href: /
