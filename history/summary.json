@@ -4,19 +4,19 @@
     "url": "$SITE_A",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "claims",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 207,
-    "timeDay": 79,
-    "timeWeek": 178,
-    "timeMonth": 208,
-    "timeYear": 207,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 205,
+    "timeDay": 91,
+    "timeWeek": 171,
+    "timeMonth": 206,
+    "timeYear": 205,
     "dailyMinutesDown": {
-      "2022-10-31": 0
+      "2022-10-31": 9
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "$SITE_B",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "settlements",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 211,
-    "timeDay": 88,
-    "timeWeek": 199,
-    "timeMonth": 210,
-    "timeYear": 211,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 209,
+    "timeDay": 93,
+    "timeWeek": 188,
+    "timeMonth": 207,
+    "timeYear": 209,
     "dailyMinutesDown": {
-      "2022-10-31": 0
+      "2022-10-31": 9
     }
   }
 ]
